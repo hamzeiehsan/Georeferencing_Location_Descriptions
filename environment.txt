@@ -1,0 +1,19 @@
+conda create -n nlp
+conda activate nlp
+conda update -n base conda
+conda install pandas
+pip install -U allennlp
+pip install -U allennlp-models
+pip install spacy
+pip install python-Levenshtein
+pip install Distance
+pip install geopy
+pip install pysolr
+pip install geopandas
+pip install pyproj
+pip install anytree
+
+pip install Shapely
+pip install geojson
+pip install OSMPythonTools
+pip install jenkspy

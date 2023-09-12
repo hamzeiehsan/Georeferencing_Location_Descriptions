@@ -1,0 +1,50 @@
+========================================================================
+ NZ Territorial Authorities (2012 Yearly Pattern)
+------------------------------------------------------------------------
+ https://koordinates.com/layer/4241-nz-territorial-authorities-2012-yearly-pattern/
+========================================================================
+From: Statistics New Zealand
+
+Description:
+  This dataset is the definitive set of territorial authority boundaries for 2012
+  as defined by the Local Government Commission and/or the territorial authorities
+  themselves but maintained by Statistics New Zealand (who are the custodian). A
+  Territorial Authority is defined under the local government act 2001m as a city
+  or a district council.
+  
+  
+  Territorial authorities are the second tier of local government in New Zealand,
+  below regional councils. The 67 territorial authorities comprise: 12 city
+  councils, 53 district councils, the Auckland Council and the Chatham Islands
+  Territory. Six territorial authorities (Auckland Council, Nelson City Council,
+  Gisborne , Tasman , and Marlborough District Councils) also perform the
+  functions of a regional council and thus are known as unitary authorities.
+  Chatham Islands Territory undertakes only some of the functions of a regional
+  council, and is therefore not a unitary authority. Territorial authority
+  districts are not subdivisions of regions, and some of them fall within more
+  than one region. Taupo District has the distinction of straddling the boundaries
+  of four different regions. Territorial authorities are based on communities of
+  interest and road access and administer local roading and reserves, sewerage,
+  building consents, the land use and subdivision aspects of resource management,
+  and other local matters.
+
+Region: New Zealand
+
+Category: Boundaries & Administration
+
+Projection: WGS 84
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Shapefile format on 18 May 2012
+- reprojected from NZGD2000 / New Zealand Transverse Mercator 2000 to WGS 84
+- converted by Koordinates to Shapefile on 06 Dec 2021 (reference #2371071)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+

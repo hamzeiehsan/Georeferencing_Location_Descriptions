@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+tmp-errors.json
+tmp-processing.json
+out/*.json
+out/*.geojson
